@@ -1,0 +1,6 @@
+Po instalacji programu tabix, wykorzystałam go, używając określonych komend:
+
+tabix -p -f  vcf CPCT02220079.annotated.processed.vcf.gz
+tabix -h CPCT02220079.annotated.processed.vcf.gz 12:112204691-112247789 > zad3.vcf
+
+
