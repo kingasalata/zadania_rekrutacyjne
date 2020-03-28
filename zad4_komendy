@@ -1,0 +1,5 @@
+Po instalacji programu BEDOPS, wykorzystałam go, używając określonych komend:
+
+vcf2bed --deletions < CPCT02220079.annotated.processed.vcf > delecje.vcf
+vcf2bed --insertions < CPCT02220079.annotated.processed.vcf > insercje.vcf
+
